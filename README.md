@@ -638,10 +638,6 @@ MIT License
 
 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/orangehrm-automation&type=Date)](https://star-history.com/your-username/orangehrm-automation&Date)
-
-最后更新: 2024年1月 | 版本: v1.0.0
-
 </div>
 
  📞 联系我们
